@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/vikashkr08/pens/](https://codepen.io/vikashkr08/pens/)
 
-- 💬 Ask me about **html, css**
+- 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikash-kumar-08/**
 

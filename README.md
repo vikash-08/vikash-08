@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
+![MasterHead](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">Learning to build with JavaScript</h3>
 <img align="right" alt="Coding" width="400" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
